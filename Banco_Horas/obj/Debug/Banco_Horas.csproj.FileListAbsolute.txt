@@ -1,0 +1,96 @@
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\bin\Debug\Banco_Horas.exe.config
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\bin\Debug\Banco_Horas.exe
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\bin\Debug\Banco_Horas.pdb
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.csprojAssemblyReference.cache
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Properties.Resources.resources
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.csproj.GenerateResource.cache
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.csproj.CoreCompileInputs.cache
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.exe
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.pdb
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Form1.resources
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Form2.resources
+E:\Banco_Horas\Banco_Horas\bin\Debug\Banco_Horas.exe.config
+E:\Banco_Horas\Banco_Horas\bin\Debug\Banco_Horas.exe
+E:\Banco_Horas\Banco_Horas\bin\Debug\Banco_Horas.pdb
+E:\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.csprojAssemblyReference.cache
+E:\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Form1.resources
+E:\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Form2.resources
+E:\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Form3.resources
+E:\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Properties.Resources.resources
+E:\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.csproj.GenerateResource.cache
+E:\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.csproj.CoreCompileInputs.cache
+E:\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.exe
+E:\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.pdb
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\bin\Debug\Banco_Horas.exe.config
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\bin\Debug\Banco_Horas.exe
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\bin\Debug\Banco_Horas.pdb
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.csprojResolveAssemblyReference.cache
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Form1.resources
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Form2.resources
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Form3.resources
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Properties.Resources.resources
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.csproj.GenerateResource.Cache
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.csproj.CoreCompileInputs.cache
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.exe
+C:\Users\Alipio\Google Drive\Meus Documentos\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.pdb
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas\Banco_Horas\obj\Debug\Banco_Horas.Form3.resources
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\bin\Debug\Banco_Horas.exe.config
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\bin\Debug\Banco_Horas.exe
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\bin\Debug\Banco_Horas.pdb
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\obj\Debug\Banco_Horas.csprojAssemblyReference.cache
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\obj\Debug\Banco_Horas.Form1.resources
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\obj\Debug\Banco_Horas.Form2.resources
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\obj\Debug\Banco_Horas.Form3.resources
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\obj\Debug\Banco_Horas.Properties.Resources.resources
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\obj\Debug\Banco_Horas.csproj.GenerateResource.cache
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\obj\Debug\Banco_Horas.csproj.CoreCompileInputs.cache
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\obj\Debug\Banco_Horas.exe
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v1\Banco_Horas\obj\Debug\Banco_Horas.pdb
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\bin\Debug\Banco_Horas.exe.config
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\bin\Debug\Banco_Horas.exe
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\bin\Debug\Banco_Horas.pdb
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\obj\Debug\Banco_Horas.csprojAssemblyReference.cache
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\obj\Debug\Banco_Horas.Form1.resources
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\obj\Debug\Banco_Horas.Form2.resources
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\obj\Debug\Banco_Horas.Form3.resources
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\obj\Debug\Banco_Horas.Properties.Resources.resources
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\obj\Debug\Banco_Horas.csproj.GenerateResource.cache
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\obj\Debug\Banco_Horas.csproj.CoreCompileInputs.cache
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\obj\Debug\Banco_Horas.exe
+C:\Users\alsilva\Desktop\CEFSA\Banco_Horas_v2\Banco_Horas\obj\Debug\Banco_Horas.pdb
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\bin\Debug\Banco_Horas.exe.config
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\bin\Debug\Banco_Horas.exe
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\bin\Debug\Banco_Horas.pdb
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\obj\Debug\Banco_Horas.csprojAssemblyReference.cache
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\obj\Debug\Banco_Horas.Form1.resources
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\obj\Debug\Banco_Horas.Form2.resources
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\obj\Debug\Banco_Horas.Form3.resources
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\obj\Debug\Banco_Horas.Properties.Resources.resources
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\obj\Debug\Banco_Horas.csproj.GenerateResource.cache
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\obj\Debug\Banco_Horas.csproj.CoreCompileInputs.cache
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\obj\Debug\Banco_Horas.exe
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v3\Banco_Horas\obj\Debug\Banco_Horas.pdb
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\bin\Debug\Banco_Horas.exe.config
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\bin\Debug\Banco_Horas.exe
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\bin\Debug\Banco_Horas.pdb
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.csprojAssemblyReference.cache
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Form1.resources
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Form2.resources
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Form3.resources
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Properties.Resources.resources
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.csproj.GenerateResource.cache
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.csproj.CoreCompileInputs.cache
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.exe
+C:\Users\alsilva\Desktop\CEFSA\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.pdb
+F:\C#\Banco_Horas_v4\Banco_Horas\bin\Debug\Banco_Horas.exe.config
+F:\C#\Banco_Horas_v4\Banco_Horas\bin\Debug\Banco_Horas.exe
+F:\C#\Banco_Horas_v4\Banco_Horas\bin\Debug\Banco_Horas.pdb
+F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.csprojAssemblyReference.cache
+F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Form1.resources
+F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Form2.resources
+F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Form3.resources
+F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Properties.Resources.resources
+F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.csproj.GenerateResource.cache
+F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.csproj.CoreCompileInputs.cache
+F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.exe
+F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.pdb
