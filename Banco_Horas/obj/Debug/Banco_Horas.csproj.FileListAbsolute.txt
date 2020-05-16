@@ -94,3 +94,15 @@ F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.csproj.GenerateResource.c
 F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.csproj.CoreCompileInputs.cache
 F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.exe
 F:\C#\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.pdb
+B:\Banco_Horas_v4\Banco_Horas\bin\Debug\Banco_Horas.exe.config
+B:\Banco_Horas_v4\Banco_Horas\bin\Debug\Banco_Horas.exe
+B:\Banco_Horas_v4\Banco_Horas\bin\Debug\Banco_Horas.pdb
+B:\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.csprojAssemblyReference.cache
+B:\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Form1.resources
+B:\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Form2.resources
+B:\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Form3.resources
+B:\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.Properties.Resources.resources
+B:\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.csproj.GenerateResource.cache
+B:\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.csproj.CoreCompileInputs.cache
+B:\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.exe
+B:\Banco_Horas_v4\Banco_Horas\obj\Debug\Banco_Horas.pdb
